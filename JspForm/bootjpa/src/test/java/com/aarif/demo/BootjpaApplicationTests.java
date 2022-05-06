@@ -1,4 +1,4 @@
-package com.telusko.demo;
+package com.aarif.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
